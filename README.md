@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To View Project =>[Invictus React](https://abhisanghimire.github.io/todo_list/)
+
+To run this application download the code and run `npm install` in terminal
+
+Then, run `npm start`
 
 ## Available Scripts
 
