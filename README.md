@@ -1,4 +1,4 @@
-To View Project =>[Invictus React](https://abhisanghimire.github.io/todo_list/)
+To View Project =>[Todo App](https://abhisanghimire.github.io/todo_list/)
 
 To run this application download the code and run `npm install` in terminal
 
